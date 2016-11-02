@@ -1,0 +1,8 @@
+[package]
+authors = ["m-r-r <raybaudroigm@gmail.com>"]
+name = "torrent-tracker"
+version = "0.1.0"
+
+[dependencies]
+bencode = "0.1.12"
+rustc-serialize = "0.3.19"
